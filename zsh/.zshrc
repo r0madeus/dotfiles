@@ -135,3 +135,5 @@ alias snvim='sudo -E nvim'
 
 alias lg='lazygit'
 export PATH=$PATH:$HOME/go/bin
+
+export MONARCH_KEY="***REMOVED***"
